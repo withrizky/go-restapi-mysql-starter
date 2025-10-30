@@ -17,7 +17,7 @@ Struktur project ini dirancang agar scalable, clean, dan mudah dikembangkan untu
 
 ## ⚙️ Cara Menjalankan
 1. Clone repository: 
-- git clone https://github.com/withrizky/go-restapi-mongodb-starter.git
+- git clone https://github.com/withrizky/go-restapi-mysql-starter.git
 - cd go-restapi-mysql-starter
 2. Install dependencies:
 - go mod tidy
